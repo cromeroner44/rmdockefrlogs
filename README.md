@@ -4,7 +4,7 @@ You may realise that you have encountered the same problem when logging into the
 To make sure that this is exactly what I am writing about here. 
 Check the space on your machine using df -h
 
-![grnberror](rmdockefrlogs/unknown.png)
+![grnberror](Unknown.png)
 
 # Description (EN)
 This script is designed for system administrators and developers working with Docker. It helps to manage container logs by clearing them and limiting their size. This is useful for saving disc space and preventing problems related to log overflow.
