@@ -19,7 +19,16 @@ This script is designed for system administrators and developers working with Do
 - Log management automation is required to clean up the logs regularly and limit their size.
 - Need to restart Docker quickly after logs are cleaned up to apply changes.
 
-Translated with DeepL.com (free version)
+## Installation and Usage
+```bash
+git clone https://github.com/cromeroner44/rmdockefrlogs.git
+chmod +x cleardock.sh
+./cleardock.sh
+```
+## Log Cleanup, Size Limitation, and Docker Restart:
+```bash
+./cleardock.sh -r
+```
 
 # Docker Log Management Script (RU)
 
